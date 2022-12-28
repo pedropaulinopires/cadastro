@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: pedro.com.br.cadastro.AppTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.031 s - in pedro.com.br.cadastro.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.016 s - in pedro.com.br.cadastro.AppTest
